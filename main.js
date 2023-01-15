@@ -1,8 +1,8 @@
-import * as THREE from 'three';
+// import * as THREE from './three.js';
 import './style.css';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import gsap from 'gsap';
-import { Light } from 'three';
+// import { Light } from './three.js';
 
 //Scene
 const scene = new THREE.Scene();
